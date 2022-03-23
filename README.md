@@ -1,4 +1,11 @@
 # Investment-Analysis
-A series of quantitative and empirical studies in Chinese A-share market
+A series of quantitative and empirical studies in Chinese A-share market.
 
-To be updated!
+#### Project 1
+
+
+#### Project 2
+
+
+#### Project 3
+
