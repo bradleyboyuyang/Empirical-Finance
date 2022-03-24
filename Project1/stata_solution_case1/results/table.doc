@@ -1,0 +1,20 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx1872\clbrdrt\brdrs\cellx3024
+\ql \cell\qc (1)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx3024
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx3024
+\ql VARIABLES\cell\qc rp_rf\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx3024
+\ql \cell\qc \cell\row
+\ql b_portfolio\cell\qc 0.00\cell\row
+\ql \cell\qc (0.18)\cell\row
+\ql Constant\cell\qc -0.00\cell\row
+\ql \cell\qc (-0.07)\cell\row
+\ql \cell\qc \cell\row
+\ql Observations\cell\qc 690\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx3024
+\ql R-squared\cell\qc 0.00\cell\row
+\pard\qc
+t-statistics in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}
