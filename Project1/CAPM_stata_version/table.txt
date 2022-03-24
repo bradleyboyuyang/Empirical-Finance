@@ -1,0 +1,12 @@
+	(1)
+VARIABLES	rp_rf
+	
+b_portfolio	0.00
+	(0.18)
+Constant	-0.06***
+	(-3.24)
+	
+Observations	690
+R-squared	0.00
+t-statistics in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
