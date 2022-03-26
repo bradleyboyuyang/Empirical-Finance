@@ -16,8 +16,8 @@
 
 - Rolling CI (width=0.3\*std):
 
-  <img src="./figures/group_by_circulate_with_rolling_CI_0.5" width="700">
+  <img src="./figures/group_by_circulate_with_rolling_CI_0.5.png" width="700">
 
 - Rolling CI (width=1.96\*std):
 
-  <img src="./figures/group_by_circulate_with_rolling_CI_1.96" width="700">
+  <img src="./figures/group_by_circulate_with_rolling_CI_1.96.png" width="700">
