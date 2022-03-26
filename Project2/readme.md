@@ -20,7 +20,7 @@
 
   <img src="./figures/arbitrage_2_4.png" width="700">
 
-  - Portfolio 3-5 long-short arbitrage return:
+ - Portfolio 3-5 long-short arbitrage return:
 
   <img src="./figures/arbitrage_3_5.png" width="700">
  
