@@ -1,10 +1,10 @@
 - Event study effects of stock 000002 (万科A) private placements:
 
-  <img src="./figures/event5.png" width="700">
+  <img src="./figures/event5_1.png" width="700">
 
 - Effects of all private placements:
 
-  <img src="./images/final_result.png" width="600">
+  <img src="./images/final_result1.png" width="600">
 
 - Circulate market value effect:
 
