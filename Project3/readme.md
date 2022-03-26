@@ -1,4 +1,4 @@
-## Results Overview:
+## Results Overview
 
 - Event study effects of stock 000002 (万科A) private placements:
 
