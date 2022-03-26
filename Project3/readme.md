@@ -4,7 +4,7 @@
 
 - Effects of all private placements:
 
-  <img src="./images/final_result1.png" width="600">
+  <img src="./figures/final_result1.png" width="700">
 
 - Circulate market value effect:
 
