@@ -17,7 +17,7 @@
   <img src="./figures/figure1_2.png" width="700">
   
   
-- Small MV strategy, compared with benchmark:
+- Small MV strategy compared with benchmark:
 
   <img src="./figures/figure1_1.png" width="700">
 
