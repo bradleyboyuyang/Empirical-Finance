@@ -1,5 +1,5 @@
 # Investment-Analysis
-#### Basic: Numerical Monte Carlo - Efficient Frontier, Capital Market Line, and Sharpe Ratios
+#### Preliminary: Numerical Monte Carlo - Efficient Frontier, Capital Market Line, and Sharpe Ratios
 
 <img src="./Efficient_Frontier/Efficient_frontier.png" width="700">
 
