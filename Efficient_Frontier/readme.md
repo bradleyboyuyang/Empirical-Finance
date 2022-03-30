@@ -1,2 +1,2 @@
-### Efficient frontier and capital market line
-  <img src="./Efficient_frontier.png" width="700">
+### Efficient frontier, capital market line, and Sharpe Ratio
+  <img src="./Efficient_frontier.png" width="800">
