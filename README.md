@@ -20,4 +20,4 @@
 - Analyze market reaction to private placements (the most typical type of Seasoned Equity Offering) using event study methdology
 - Further explore characteristics of stocks with high cumulative abnormal return including industry, ROE, PB and PE ratio, and market value
 
-<img src="./Project3/figures/group_by_circulate_with_rolling_CI_1.96.png" width="700">
+<img src="./Project3/figures/group_by_circulate_with_rolling_CI_1.96.png" width="750">
