@@ -1,7 +1,7 @@
 # Investment-Analysis
 #### Preliminary: Numerical Monte Carlo - Efficient Frontier, Capital Market Line, and Sharpe Ratios
 
-<img src="./Efficient_Frontier/Efficient_frontier.png" width="700">
+<img src="./Efficient_Frontier/efficient_frontier.png" width="700">
 
 
 #### Project 1: CAPM Applicability and Factor Testing
