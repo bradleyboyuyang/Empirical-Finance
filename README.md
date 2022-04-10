@@ -1,7 +1,5 @@
 # Investment-Analysis
-A series of quantitative and empirical studies in China A-share market. Perfect for beginners to learn about empirical finance and investment analysis.
-
-Check respective folders to learn about detailed instructions.
+A series of quantitative and empirical studies in China A-share market. Perfect for beginners to learn about empirical finance and investment analysis. Check respective folders to learn about detailed instructions.
 
 #### Preliminary: Numerical Monte Carlo - Efficient Frontier, Capital Market Line, and Sharpe Ratios
 
