@@ -6,7 +6,7 @@ A series of quantitative and empirical studies in China A-share market. Perfect 
 <img src="./Efficient_Frontier/efficient_frontier.png" width="700">
 
 
-#### Project 1: CAPM Applicability and Factor Testing
+#### Project 1: CAPM Applicability and Factor Testing Framework
 - Test CAPM applicability using time series and Fama-MacBeth Regression
 - Backtest effectiveness of market value, PB ratio, momentum, and contrarian factor by constructing portfolios
 
